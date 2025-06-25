@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Recipe-Sharing App Development<br>🌱 I’m currently learning Generative AI<br>
+🔭 I’m currently learning typescript and .NET<br>🌱 I’m currently learning Generative AI<br>
 
 
 ## 🌐 Socials:
